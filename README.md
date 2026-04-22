@@ -35,15 +35,11 @@ The goal is to extract meaningful insights related to skills, salary, experience
 - Identified most in-demand skills
 - Machine Learning, Python, SQL are dominant
 
-![Top Skills](images/skills.png)
-
 ---
 
 ### 2. Experience vs Salary
 - Salary increases significantly with experience
 - Growth is non-linear
-
-![Experience vs Salary](images/experience_salary.png)
 
 ---
 
@@ -52,15 +48,11 @@ The goal is to extract meaningful insights related to skills, salary, experience
 - Followed by Hyderabad, Chennai, and Gurugram
 - Remote jobs are also significant
 
-![Location Demand](images/location.png)
-
 ---
 
 ### 4. Company Analysis
 - High hiring companies: Accenture, Turing  
 - High paying companies: Goldman Sachs, Infineon  
-
-![Companies](images/companies.png)
 
 ---
 
